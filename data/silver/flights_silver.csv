@@ -1,0 +1,119 @@
+flight_number,airline,departure_airport,arrival_airport,status,departure_time
+GA9828,Garuda Indonesia,DPS,ICN,scheduled,2026-07-17 01:10:00+00:00
+DL7873,Delta Air Lines,DPS,ICN,scheduled,2026-07-17 01:10:00+00:00
+AF5390,Air France,DPS,ICN,scheduled,2026-07-17 01:10:00+00:00
+,empty,PQQ,TMW,scheduled,2026-07-17 08:35:00+00:00
+TR560,Scoot,SIN,DVO,scheduled,2026-07-17 02:00:00+00:00
+TR572,Scoot,SIN,ILO,scheduled,2026-07-17 02:00:00+00:00
+ET639,Ethiopian Airlines,SIN,ADD,scheduled,2026-07-17 02:00:00+00:00
+JL38,Japan Airlines,SIN,HND,scheduled,2026-07-17 01:55:00+00:00
+TR588,Scoot,SIN,MNL,scheduled,2026-07-17 01:50:00+00:00
+SQ237,Singapore Airlines,SIN,MEL,scheduled,2026-07-17 01:45:00+00:00
+BZ102,Bluebird Airways,BLR,BOM,scheduled,2026-07-17 00:25:00+00:00
+BZ304,Bluebird Airways,BLR,DEL,scheduled,2026-07-17 00:15:00+00:00
+AI2758,Air India,BLR,DEL,scheduled,2026-07-17 00:15:00+00:00
+IX191,Air India Express,ATQ,DXB,scheduled,2026-07-17 00:15:00+00:00
+AI9091,Air India,ATQ,DXB,scheduled,2026-07-17 00:15:00+00:00
+PR2822,Philippine Airlines,DVO,MNL,scheduled,2026-07-17 03:05:00+00:00
+QR4824,Qatar Airways,DVO,MNL,scheduled,2026-07-17 03:05:00+00:00
+SQ5128,Singapore Airlines,DVO,MNL,scheduled,2026-07-17 03:05:00+00:00
+MH4584,Malaysia Airlines,DVO,MNL,scheduled,2026-07-17 03:05:00+00:00
+CI8752,China Airlines,DVO,MNL,scheduled,2026-07-17 03:05:00+00:00
+NZ5680,Air New Zealand,DUD,WLG,scheduled,2026-07-17 06:40:00+00:00
+QF8571,Qantas,DUD,WLG,scheduled,2026-07-17 06:40:00+00:00
+EY4620,Etihad Airways,DUD,WLG,scheduled,2026-07-17 06:40:00+00:00
+GA612,Garuda Indonesia,DMK,KIX,scheduled,2026-07-17 01:15:00+00:00
+AI2336,Air India,DEL,BKK,scheduled,2026-07-17 00:30:00+00:00
+6E6156,IndiGo,GOI,BOM,scheduled,2026-07-17 00:05:00+00:00
+VS9009,Virgin Atlantic,GOI,BOM,scheduled,2026-07-17 00:05:00+00:00
+MH5282,Malaysia Airlines,GOI,BOM,scheduled,2026-07-17 00:05:00+00:00
+BA8770,British Airways,GOI,BOM,scheduled,2026-07-17 00:05:00+00:00
+MH199,Malaysia Airlines,HYD,KUL,scheduled,2026-07-17 00:25:00+00:00
+JL7948,Japan Airlines,HYD,KUL,scheduled,2026-07-17 00:25:00+00:00
+BZ154,Bluebird Airways,HYD,BOM,scheduled,2026-07-17 00:10:00+00:00
+6E1273,IndiGo,HYD,MCT,scheduled,2026-07-17 00:05:00+00:00
+S76426,S7 Airlines,HTA,IKT,scheduled,2026-07-17 03:50:00+00:00
+O37233,SF Airlines,HGH,CGO,scheduled,2026-07-17 02:40:00+00:00
+O37068,SF Airlines,HGH,JJN,scheduled,2026-07-17 02:20:00+00:00
+O37117,SF Airlines,HGH,NKG,scheduled,2026-07-17 02:20:00+00:00
+O37064,SF Airlines,HGH,JJN,scheduled,2026-07-17 02:20:00+00:00
+JG2679,JDL Airlines,HGH,SZX,scheduled,2026-07-17 02:10:00+00:00
+IX141,Air India Express,JAI,DXB,scheduled,2026-07-17 00:05:00+00:00
+AI9123,Air India,JAI,DXB,scheduled,2026-07-17 00:05:00+00:00
+NZ5718,Air New Zealand,IVC,CHC,scheduled,2026-07-17 06:10:00+00:00
+SQ4513,Singapore Airlines,IVC,CHC,scheduled,2026-07-17 06:10:00+00:00
+PA210,airblue,ISB,DXB,scheduled,2026-07-17 00:05:00+00:00
+U6365,Ural Airlines,IKT,VVO,scheduled,2026-07-17 03:00:00+00:00
+HO3110,Juneyao Air,PVG,ICN,scheduled,2026-07-17 01:05:00+00:00
+VJ979,VietJet Air,ICN,PQC,scheduled,2026-07-17 04:05:00+00:00
+H14150,,ICN,PQC,scheduled,2026-07-17 04:05:00+00:00
+W24979,Flexflight,ICN,PQC,scheduled,2026-07-17 04:05:00+00:00
+YG9159,YTO Cargo Airlines,KMG,DEL,scheduled,2026-07-17 02:25:00+00:00
+YG9067,YTO Cargo Airlines,KMG,KHI,scheduled,2026-07-17 02:20:00+00:00
+YG9129,YTO Cargo Airlines,KMG,MAA,scheduled,2026-07-17 02:15:00+00:00
+YG9157,YTO Cargo Airlines,KMG,DEL,scheduled,2026-07-17 02:15:00+00:00
+YG9103,YTO Cargo Airlines,KMG,BOM,scheduled,2026-07-17 02:10:00+00:00
+I98872,Central Airlines,KIX,YNT,scheduled,2026-07-17 04:00:00+00:00
+GI4116,Gridiron Air,KIX,NGB,scheduled,2026-07-17 04:00:00+00:00
+CF298,China Postal Airlines,KIX,CSX,scheduled,2026-07-17 04:00:00+00:00
+SC2422,Shandong Airlines,KIX,XMN,scheduled,2026-07-17 03:55:00+00:00
+CF260,China Postal Airlines,KIX,TNA,scheduled,2026-07-17 03:55:00+00:00
+MH126,Malaysia Airlines,PER,KUL,scheduled,2026-07-17 02:10:00+00:00
+UL2126,SriLankan Airlines,PER,KUL,scheduled,2026-07-17 02:10:00+00:00
+TK7906,Turkish Airlines,PER,KUL,scheduled,2026-07-17 02:10:00+00:00
+SV6389,Saudia,PER,KUL,scheduled,2026-07-17 02:10:00+00:00
+QR5019,Qatar Airways,PER,KUL,scheduled,2026-07-17 02:10:00+00:00
+QF5145,Qantas,PER,KUL,scheduled,2026-07-17 02:10:00+00:00
+KL3962,KLM,PER,KUL,scheduled,2026-07-17 02:10:00+00:00
+FY7156,Fly Sky Airlines,PER,KUL,scheduled,2026-07-17 02:10:00+00:00
+8M9634,Myanmar Airways International,PER,KUL,scheduled,2026-07-17 02:10:00+00:00
+HU491,Hainan Airlines,PEK,BRU,scheduled,2026-07-17 03:00:00+00:00
+RW803,Royalair Philippines,PVG,MPH,scheduled,2026-07-17 03:05:00+00:00
+CF207,China Postal Airlines,PVG,NRT,scheduled,2026-07-17 03:00:00+00:00
+CF205,China Postal Airlines,PVG,KIX,scheduled,2026-07-17 03:00:00+00:00
+CZ451,China Southern Airlines,PVG,AMS,scheduled,2026-07-17 02:55:00+00:00
+CK5061,China Cargo Airlines,PVG,CKG,scheduled,2026-07-17 02:50:00+00:00
+QF7536,Qantas,PVG,SIN,scheduled,2026-07-17 02:40:00+00:00
+NH8404,All Nippon Airways,PVG,NRT,scheduled,2026-07-17 02:30:00+00:00
+O37810,SF Airlines,PVG,SZX,scheduled,2026-07-17 02:30:00+00:00
+CA8091,Air China,PVG,LAX,scheduled,2026-07-17 02:30:00+00:00
+VJ7239,VietJet Air,PVG,HAN,scheduled,2026-07-17 02:20:00+00:00
+ZH228,Shenzhen Airlines,SIN,SZX,scheduled,2026-07-17 03:00:00+00:00
+TR568,Scoot,SIN,CRK,scheduled,2026-07-17 03:00:00+00:00
+6E1008,IndiGo,SIN,TRZ,scheduled,2026-07-17 02:45:00+00:00
+TR156,Scoot,SIN,SHE,scheduled,2026-07-17 02:45:00+00:00
+CZ8088,China Southern Airlines,SIN,CSX,scheduled,2026-07-17 02:45:00+00:00
+MF8676,Xiamen Air,SIN,XMN,scheduled,2026-07-17 02:40:00+00:00
+SQ402,Singapore Airlines,SIN,DEL,scheduled,2026-07-17 02:35:00+00:00
+TR58,Scoot,SIN,MEL,scheduled,2026-07-17 02:30:00+00:00
+SQ314,Singapore Airlines,SIN,LGW,scheduled,2026-07-17 02:30:00+00:00
+MU9648,China Eastern Airlines,SIN,KMG,scheduled,2026-07-17 02:30:00+00:00
+NH8428,All Nippon Airways,TAO,NRT,scheduled,2026-07-17 02:40:00+00:00
+SC2433,Shandong Airlines,TAO,HIA,scheduled,2026-07-17 02:10:00+00:00
+7C2126,Jeju Air,TAG,ICN,scheduled,2026-07-17 02:15:00+00:00
+JG2861,JDL Airlines,SZX,WUX,scheduled,2026-07-17 02:50:00+00:00
+O37110,SF Airlines,SZX,PEK,scheduled,2026-07-17 02:50:00+00:00
+MH523,Malaysia Airlines,SZX,KUL,scheduled,2026-07-17 02:45:00+00:00
+JG2811,JDL Airlines,SZX,BAR,scheduled,2026-07-17 02:40:00+00:00
+SC2477,Shandong Airlines,SZX,XMN,scheduled,2026-07-17 02:40:00+00:00
+O37811,SF Airlines,SZX,HGH,scheduled,2026-07-17 02:40:00+00:00
+O36845,SF Airlines,SZX,NTG,scheduled,2026-07-17 02:40:00+00:00
+SM910,Air Cairo,UFA,SSH,scheduled,2026-07-17 00:05:00+00:00
+SC2461,Shandong Airlines,TNA,NGO,scheduled,2026-07-17 02:20:00+00:00
+TR759,Scoot,TRZ,SIN,scheduled,2026-07-17 00:15:00+00:00
+SQ8415,Singapore Airlines,TRZ,SIN,scheduled,2026-07-17 00:15:00+00:00
+IX669,Air India Express,TRZ,SHJ,scheduled,2026-07-17 00:05:00+00:00
+AI9223,Air India,TRZ,SHJ,scheduled,2026-07-17 00:05:00+00:00
+IX581,Air India Express,TRV,DMM,scheduled,2026-07-17 00:30:00+00:00
+AI9203,Air India,TRV,DMM,scheduled,2026-07-17 00:30:00+00:00
+MH117,Malaysia Airlines,TRV,KUL,scheduled,2026-07-17 00:05:00+00:00
+AK563,AirAsia,TFU,DMK,scheduled,2026-07-17 02:50:00+00:00
+JG2997,JDL Airlines,PKX,BKK,scheduled,2026-07-17 03:00:00+00:00
+UO235,HK express,PKX,HKG,scheduled,2026-07-17 02:35:00+00:00
+JG2645,JDL Airlines,PKX,SZX,scheduled,2026-07-17 02:10:00+00:00
+CF9020,China Postal Airlines,PKX,CAN,scheduled,2026-07-17 02:10:00+00:00
+CF271,China Postal Airlines,YNZ,ICN,scheduled,2026-07-17 03:00:00+00:00
+QF124,Qantas,ZQN,SYD,scheduled,2026-07-17 07:00:00+00:00
+MU4128,China Eastern Airlines,ZQN,SYD,scheduled,2026-07-17 07:00:00+00:00
+6E4920,IndiGo,ZQN,SYD,scheduled,2026-07-17 07:00:00+00:00
+AY5038,Finnair,ZQN,SYD,scheduled,2026-07-17 07:00:00+00:00

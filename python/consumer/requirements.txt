@@ -1,0 +1,6 @@
+confluent-kafka
+fastavro
+pandas
+pyarrow
+python-dotenv
+pymongo
